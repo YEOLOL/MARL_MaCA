@@ -1,4 +1,4 @@
-# MaCA
+# MARL code for MaCA
 ![](https://img.shields.io/badge/language-python-green.svg)
 ![](https://img.shields.io/badge/platform-windows-green.svg)
 ![](https://img.shields.io/badge/platform-linux-green.svg)
