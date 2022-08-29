@@ -1,10 +1,4 @@
 # MARL code for MaCA
-![](https://img.shields.io/badge/language-python-green.svg)
-![](https://img.shields.io/badge/platform-windows-green.svg)
-![](https://img.shields.io/badge/platform-linux-green.svg)
-![](https://img.shields.io/badge/platform-mac-green.svg)
-![](https://img.shields.io/badge/stability-experimental-green.svg)
-
 Multi-agent Combat Arena (MaCA) is a heterogeneous multi-agent distributed decision and control technology reasearch platform produced by CETC-TFAI team. It focuses on the application of AI technologies e.g. reinforcement learning in multi-agent cooperation and confrontation
 
 ![](https://leonfg.github.io/maca/resource/maca.gif)
